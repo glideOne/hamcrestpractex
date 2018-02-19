@@ -45,6 +45,8 @@ public class HamcrestTwo {
         assertThat(two, hasProperty("seniority", startsWith("j")));
         //    e) At least one employee has the id greather than 1, position = "QA engineer" and the seniority ends with "or".
         List<org.hamcrest.Matcher<? super Employee>> matchers = new ArrayList<>();
+//      hint:      assertThat(all, hasItem(allOf(1, 2 3));
+
 
     }
 
