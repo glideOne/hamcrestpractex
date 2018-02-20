@@ -11,7 +11,7 @@ public class HamcrestThree {
 
 
     @Test
-    public void exThree() {
+    public void exThreePointOne() {
 
         //3. How would you write an assert using hamcrest matcher to check that a given map contains an entry which matches the specified key and value?
         Map<String, String> someMap = new HashMap<String, String>()
@@ -23,6 +23,21 @@ public class HamcrestThree {
         };
 
         assertThat(someMap, hasEntry("key1", "value1"));
+
+    }
+
+    @Test
+    public void exThreePointTwo() {
+        //4. How would you write an assert using hamcrest matcher to check that a given map contains an entry with the key greater than someNumber and the value ends with "o"?
+        Map<Integer, String> mapTwo = new HashMap<Integer, String>()
+        {
+            {
+                put(10, "value1");
+                put(12, "value2o");
+            }
+        };
+
+        assertThat(mapTwo, hasEntry(greaterThan(8), endsWith("o")));
 
     }
 
