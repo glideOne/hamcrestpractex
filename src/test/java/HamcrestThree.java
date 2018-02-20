@@ -57,4 +57,27 @@ public class HamcrestThree {
 
     }
 
+    @Test
+    public void exSix() {
+        //6. How would you write an assert using hamcrest matcher to check that a given map has at least one key which starts with someText?
+        Map<String, String> mapThree = new HashMap<String, String>()
+        {
+            {
+                put("key1", "value1");
+                put("key2", "value2o");
+                put("key3", "value");
+            }
+        };
+
+        assertThat(mapThree, hasKey(startsWith("ke")));
+
+    }
+
+    @Test
+    public void exSeven() {
+        //7. How would you write an assert using hamcrest matcher to check that a number matches the specified String value? E.g 4 matches "4".
+        Integer i = 5;
+//        assertThat(i, comparesEqualTo("5"));
+    }
+
 }

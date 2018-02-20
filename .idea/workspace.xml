@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51e4c5ec-b7fb-4d68-8f52-3715a1e6055e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/HamcrestThree.class" afterPath="$PROJECT_DIR$/target/test-classes/HamcrestThree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/HamcrestThree.java" afterPath="$PROJECT_DIR$/src/test/java/HamcrestThree.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,8 +34,8 @@
       <file leaf-file-name="HamcrestThree.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/HamcrestThree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="55" column="54" lean-forward="false" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
+            <state relative-caret-position="617">
+              <caret line="79" column="38" lean-forward="false" selection-start-line="79" selection-start-column="38" selection-end-line="79" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -200,63 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.HamcrestThree.exFive">
-    <configuration default="false" name="HamcrestTwo.exTwoPointOne" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="hamcrestpractex" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HamcrestTwo" />
-      <option name="METHOD_NAME" value="exTwoPointOne" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="false" name="HamcrestTwo.exTwoPointTwo" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="hamcrestpractex" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HamcrestTwo" />
-      <option name="METHOD_NAME" value="exTwoPointTwo" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="TestNG.HamcrestThree.exSeven">
     <configuration default="false" name="HamcrestThree.exThree" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="hamcrestpractex" />
@@ -322,6 +268,62 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="HamcrestThree" />
       <option name="METHOD_NAME" value="exFive" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="HamcrestThree.exSix" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="hamcrestpractex" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HamcrestThree" />
+      <option name="METHOD_NAME" value="exSix" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="HamcrestThree.exSeven" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="hamcrestpractex" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HamcrestThree" />
+      <option name="METHOD_NAME" value="exSeven" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -603,19 +605,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.HamcrestTwo.exTwoPointOne" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.HamcrestTwo.exTwoPointTwo" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exThree" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exFour" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exFive" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exThree" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exFour" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exFive" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exSix" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exSeven" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exFive" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exFour" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exThree" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.HamcrestTwo.exTwoPointTwo" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.HamcrestTwo.exTwoPointOne" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exSeven" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exSix" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exFive" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exFour" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exThree" />
       </list>
     </recent_temporary>
   </component>
@@ -638,35 +640,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HamcrestThree_exFive - 2018.02.20 at 22h 46m 36s.xml">
-      <configuration name="HamcrestThree.exFive" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HamcrestThree_exFive - 2018.02.20 at 22h 47m 33s.xml">
-      <configuration name="HamcrestThree.exFive" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HamcrestThree_exFive - 2018.02.20 at 22h 47m 55s.xml">
-      <configuration name="HamcrestThree.exFive" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="HamcrestThree_exFive - 2018.02.20 at 22h 48m 10s.xml">
       <configuration name="HamcrestThree.exFive" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HamcrestThree_exThree - 2018.02.20 at 22h 18m 45s.xml">
-      <configuration name="HamcrestThree.exThree" configurationId="TestNG" />
+    <history-entry file="HamcrestThree_exFive - 2018.02.20 at 22h 48m 19s.xml">
+      <configuration name="HamcrestThree.exFive" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HamcrestThree_exThreePointTwo - 2018.02.20 at 22h 44m 12s.xml">
-      <configuration name="HamcrestThree.exThreePointTwo" configurationId="TestNG" />
+    <history-entry file="HamcrestThree_exSeven - 2018.02.20 at 22h 51m 45s.xml">
+      <configuration name="HamcrestThree.exSeven" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HamcrestTwo_exTwoPointTwo - 2018.02.20 at 22h 01m 04s.xml">
-      <configuration name="HamcrestTwo.exTwoPointTwo" configurationId="TestNG" />
+    <history-entry file="HamcrestThree_exSeven - 2018.02.20 at 22h 51m 53s.xml">
+      <configuration name="HamcrestThree.exSeven" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HamcrestTwo_exTwoPointTwo - 2018.02.20 at 22h 01m 30s.xml">
-      <configuration name="HamcrestTwo.exTwoPointTwo" configurationId="TestNG" />
+    <history-entry file="HamcrestThree_exSeven - 2018.02.20 at 22h 52m 08s.xml">
+      <configuration name="HamcrestThree.exSeven" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HamcrestTwo_exTwoPointTwo - 2018.02.20 at 22h 01m 54s.xml">
-      <configuration name="HamcrestTwo.exTwoPointTwo" configurationId="TestNG" />
+    <history-entry file="HamcrestThree_exSeven - 2018.02.20 at 22h 52m 48s.xml">
+      <configuration name="HamcrestThree.exSeven" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HamcrestTwo_exTwoPointTwo - 2018.02.20 at 22h 02m 53s.xml">
-      <configuration name="HamcrestTwo.exTwoPointTwo" configurationId="TestNG" />
+    <history-entry file="HamcrestThree_exSeven - 2018.02.20 at 22h 53m 00s.xml">
+      <configuration name="HamcrestThree.exSeven" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HamcrestThree_exSeven - 2018.02.20 at 22h 56m 29s.xml">
+      <configuration name="HamcrestThree.exSeven" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HamcrestThree_exSeven - 2018.02.20 at 22h 56m 39s.xml">
+      <configuration name="HamcrestThree.exSeven" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HamcrestThree_exSix - 2018.02.20 at 22h 50m 28s.xml">
+      <configuration name="HamcrestThree.exSix" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -944,8 +946,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HamcrestThree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="55" column="54" lean-forward="false" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
+        <state relative-caret-position="617">
+          <caret line="79" column="38" lean-forward="false" selection-start-line="79" selection-start-column="38" selection-end-line="79" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
