@@ -9,8 +9,8 @@
         <module name="hamcrestpractex" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="hamcrestpractex" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="hamcrestpractex" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
