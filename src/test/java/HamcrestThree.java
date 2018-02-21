@@ -85,13 +85,14 @@ public class HamcrestThree {
         assertThat(i, hasToString("5"));
     }
 
+    /////////////////////////////////////////////////
     @Test public void exEight() {
         //8. How would you write an assert using hamcrest matcher to check that a double number contains some string value? E.g 3.14 contains "." or 3.14 contains "1"
         double d = 3.14;
         String dee = String.valueOf(d);
+        System.out.println(dee);
         String s = ".";
-//        assertThat();
-
+        assertThat(dee, containsString(s));
     }
 
     @Test public void exNine() {
