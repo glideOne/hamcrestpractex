@@ -77,7 +77,7 @@ public class HamcrestThree {
     public void exSeven() {
         //7. How would you write an assert using hamcrest matcher to check that a number matches the specified String value? E.g 4 matches "4".
         Integer i = 5;
-//        assertThat(i, comparesEqualTo("5"));
+        assertThat(i, hasToString("5"));
     }
 
 }
