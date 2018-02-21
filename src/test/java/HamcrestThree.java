@@ -75,9 +75,24 @@ public class HamcrestThree {
 
     @Test
     public void exSeven() {
-        //7. How would you write an assert using hamcrest matcher to check that a number matches the specified String value? E.g 4 matches "4".
+    //7. How would you write an assert using hamcrest matcher to check that a number matches the specified String value? E.g 4 matches "4".
         Integer i = 5;
         assertThat(i, hasToString("5"));
+    }
+
+    @Test public void exEight() {
+        //8. How would you write an assert using hamcrest matcher to check that a double number contains some string value? E.g 3.14 contains "." or 3.14 contains "1"
+
+    }
+
+    @Test public void exNine() {
+        //9. How would you write a custom matches to check that a number is even? E.g. assertThat(5, isEven());
+
+    }
+
+    @Test public void exTen() {
+        //10. How would you write a custom matches to check that a number is divisible by a given number? E.g. assertThat(15, is(divisibleBy(3)));
+
     }
 
 }
