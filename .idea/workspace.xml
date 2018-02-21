@@ -19,11 +19,23 @@
       <file leaf-file-name="HamcrestThree.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/HamcrestThree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="94" column="5" lean-forward="true" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
+            <state relative-caret-position="183">
+              <caret line="104" column="43" lean-forward="true" selection-start-line="104" selection-start-column="43" selection-end-line="104" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#3632#3633#0" expanded="true" />
+                <element signature="e#3702#3703#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HamcrestTwo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/HamcrestTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="86" column="19" lean-forward="false" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -205,91 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.HamcrestThree.exSeven">
-    <configuration default="false" name="HamcrestThree.exThree" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="hamcrestpractex" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HamcrestThree" />
-      <option name="METHOD_NAME" value="exThree" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="false" name="HamcrestThree.exFour" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="hamcrestpractex" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HamcrestThree" />
-      <option name="METHOD_NAME" value="exFour" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="false" name="HamcrestThree.exFive" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="hamcrestpractex" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HamcrestThree" />
-      <option name="METHOD_NAME" value="exFive" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="TestNG.HamcrestThree.exTen">
     <configuration default="false" name="HamcrestThree.exSix" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="hamcrestpractex" />
@@ -327,6 +255,90 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="HamcrestThree" />
       <option name="METHOD_NAME" value="exSeven" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="HamcrestThree.exEight" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="hamcrestpractex" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HamcrestThree" />
+      <option name="METHOD_NAME" value="exEight" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="HamcrestThree.exNine" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="hamcrestpractex" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HamcrestThree" />
+      <option name="METHOD_NAME" value="exNine" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="HamcrestThree.exTen" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="hamcrestpractex" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HamcrestThree" />
+      <option name="METHOD_NAME" value="exTen" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -608,19 +620,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exThree" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exFour" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exFive" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exSix" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exSeven" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exSix" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exSeven" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exEight" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exNine" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exTen" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exSeven" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exSix" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exFive" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exFour" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exThree" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exTen" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exNine" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exEight" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exSeven" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.HamcrestThree.exSix" />
       </list>
     </recent_temporary>
   </component>
@@ -643,35 +655,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HamcrestThree_exSeven - 2018.02.20 at 22h 51m 53s.xml">
-      <configuration name="HamcrestThree.exSeven" configurationId="TestNG" />
+    <history-entry file="HamcrestThree_exNine - 2018.02.21 at 19h 11m 19s.xml">
+      <configuration name="HamcrestThree.exNine" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HamcrestThree_exSeven - 2018.02.20 at 22h 52m 08s.xml">
-      <configuration name="HamcrestThree.exSeven" configurationId="TestNG" />
+    <history-entry file="HamcrestThree_exNine - 2018.02.21 at 19h 13m 41s.xml">
+      <configuration name="HamcrestThree.exNine" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HamcrestThree_exSeven - 2018.02.20 at 22h 52m 48s.xml">
-      <configuration name="HamcrestThree.exSeven" configurationId="TestNG" />
+    <history-entry file="HamcrestThree_exNine - 2018.02.21 at 19h 13m 48s.xml">
+      <configuration name="HamcrestThree.exNine" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HamcrestThree_exSeven - 2018.02.20 at 22h 53m 00s.xml">
-      <configuration name="HamcrestThree.exSeven" configurationId="TestNG" />
+    <history-entry file="HamcrestThree_exNine - 2018.02.21 at 19h 14m 28s.xml">
+      <configuration name="HamcrestThree.exNine" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HamcrestThree_exSeven - 2018.02.20 at 22h 56m 29s.xml">
-      <configuration name="HamcrestThree.exSeven" configurationId="TestNG" />
+    <history-entry file="HamcrestThree_exNine - 2018.02.21 at 19h 14m 40s.xml">
+      <configuration name="HamcrestThree.exNine" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HamcrestThree_exSeven - 2018.02.20 at 22h 56m 39s.xml">
-      <configuration name="HamcrestThree.exSeven" configurationId="TestNG" />
+    <history-entry file="HamcrestThree_exTen - 2018.02.21 at 19h 17m 23s.xml">
+      <configuration name="HamcrestThree.exTen" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HamcrestThree_exSeven - 2018.02.21 at 09h 35m 23s.xml">
-      <configuration name="HamcrestThree.exSeven" configurationId="TestNG" />
+    <history-entry file="HamcrestThree_exTen - 2018.02.21 at 19h 17m 30s.xml">
+      <configuration name="HamcrestThree.exTen" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HamcrestThree_exSeven - 2018.02.21 at 09h 35m 31s.xml">
-      <configuration name="HamcrestThree.exSeven" configurationId="TestNG" />
+    <history-entry file="HamcrestThree_exTen - 2018.02.21 at 19h 17m 37s.xml">
+      <configuration name="HamcrestThree.exTen" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HamcrestThree_exSeven - 2018.02.21 at 09h 35m 51s.xml">
-      <configuration name="HamcrestThree.exSeven" configurationId="TestNG" />
+    <history-entry file="HamcrestThree_exTen - 2018.02.21 at 19h 17m 50s.xml">
+      <configuration name="HamcrestThree.exTen" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HamcrestThree_exSix - 2018.02.20 at 22h 50m 28s.xml">
-      <configuration name="HamcrestThree.exSix" configurationId="TestNG" />
+    <history-entry file="HamcrestThree_exTen - 2018.02.21 at 19h 18m 34s.xml">
+      <configuration name="HamcrestThree.exTen" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -681,16 +693,16 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25799572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -772,8 +784,8 @@
         <state relative-caret-position="272">
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="false" />
+            <element signature="e#548#549#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -807,8 +819,8 @@
         <state relative-caret-position="272">
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="false" />
+            <element signature="e#548#549#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -842,8 +854,8 @@
         <state relative-caret-position="272">
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="false" />
+            <element signature="e#548#549#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -885,8 +897,8 @@
         <state relative-caret-position="272">
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="false" />
+            <element signature="e#548#549#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -920,8 +932,8 @@
         <state relative-caret-position="272">
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="false" />
+            <element signature="e#548#549#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -955,8 +967,8 @@
         <state relative-caret-position="72">
           <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding>
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="false" />
+            <element signature="e#548#549#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -982,8 +994,8 @@
         <state relative-caret-position="342">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="false" />
+            <element signature="e#548#549#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1018,8 +1030,8 @@
         <state relative-caret-position="342">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="false" />
+            <element signature="e#548#549#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1046,8 +1058,8 @@
         <state relative-caret-position="306">
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="false" />
+            <element signature="e#548#549#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1081,8 +1093,8 @@
         <state relative-caret-position="272">
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="false" />
+            <element signature="e#548#549#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1112,21 +1124,13 @@
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-all/1.3/hamcrest-all-1.3-sources.jar!/org/hamcrest/Matchers.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/HamcrestTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="944">
-          <caret line="59" column="55" lean-forward="true" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="false" />
+            <element signature="e#548#549#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1147,12 +1151,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HamcrestTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="86" column="19" lean-forward="false" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HamcrestThree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="94" column="5" lean-forward="true" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
+        <state relative-caret-position="183">
+          <caret line="104" column="43" lean-forward="true" selection-start-line="104" selection-start-column="43" selection-end-line="104" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#3632#3633#0" expanded="true" />
+            <element signature="e#3702#3703#0" expanded="true" />
           </folding>
         </state>
       </provider>

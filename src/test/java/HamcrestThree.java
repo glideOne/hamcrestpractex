@@ -2,6 +2,11 @@ import java.util.HashMap;
 import java.util.Map;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.*;
+
+import org.hamcrest.BaseMatcher;
+import org.hamcrest.Description;
+import org.hamcrest.Matcher;
+import org.hamcrest.Matchers;
 import org.testng.annotations.Test;
 
 /**
@@ -82,17 +87,54 @@ public class HamcrestThree {
 
     @Test public void exEight() {
         //8. How would you write an assert using hamcrest matcher to check that a double number contains some string value? E.g 3.14 contains "." or 3.14 contains "1"
+        double d = 3.14;
+        String dee = String.valueOf(d);
+        String s = ".";
+//        assertThat();
 
     }
 
     @Test public void exNine() {
         //9. How would you write a custom matches to check that a number is even? E.g. assertThat(5, isEven());
+        assertThat(10, isEven());
 
     }
 
     @Test public void exTen() {
         //10. How would you write a custom matches to check that a number is divisible by a given number? E.g. assertThat(15, is(divisibleBy(3)));
+        assertThat(15, is(divisibleBy(3)));
+    }
 
+    //9. isEven
+    private Matcher<Integer> isEven() {
+        return new BaseMatcher<Integer>() {
+            @Override
+            public boolean matches(final Object o) {
+                final Integer nr = (Integer) o;
+                return (nr % 2) == 0;
+            }
+
+            @Override
+            public void describeTo(final Description description) {
+                description.appendText("Even number.");
+            }
+        };
+    }
+
+    //10.
+    private Matcher<Integer> divisibleBy(final int i) {
+        return new BaseMatcher<Integer>() {
+            @Override
+            public boolean matches(final Object o) {
+                final Integer nr = (Integer) o;
+                return (nr % i) == 0;
+            }
+
+            @Override
+            public void describeTo(final Description description) {
+                description.appendText("A number divisible by: ").appendValue(i);
+            }
+        };
     }
 
 }
